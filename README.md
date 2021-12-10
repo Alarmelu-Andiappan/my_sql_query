@@ -17,7 +17,7 @@ Sakila DVD Rental Database SQL Project
 
 
 ### Requirements
-Install `PostgreSQL'
+Install `PostgreSQL`
 
 ### Files used
 Download the [DVD Rental database](https://www.postgresqltutorial.com/postgresql-sample-database/)`
